@@ -21,7 +21,9 @@ A place for resources I find useful as well as links to my other projects.
 ## My Repos
 
 [Portfolio Frontend](https://github.com/carvalhochris/christopher) \
-[Portfolio Backend](https://github.com/carvalhochris/portfolio-DRF)
+[Portfolio Backend](https://github.com/carvalhochris/portfolio-DRF) \
+[React Stripe Form](https://github.com/carvalhochris/react-stripe-form-example) \
+[ChakraUI Card Iterator](https://github.com/carvalhochris/chakra-card-iterator)
 
 ## Work
 
@@ -32,4 +34,5 @@ A place for resources I find useful as well as links to my other projects.
 
 ## Contact
 
-[Email](mailto:chris@unlockyoursound.com)
+[Email](mailto:chris@unlockyoursound.com) \
+[LinkedIn](https://www.linkedin.com/in/christopher-carvalho-music/)
