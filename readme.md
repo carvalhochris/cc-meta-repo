@@ -2,6 +2,8 @@
 
 ## React
 
+[React (beta) docs](https://beta.reactjs.org/)
+
 ## Django
 
 ## Favourite Resources
