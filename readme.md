@@ -26,6 +26,13 @@ A place for resources I find useful as well as links to my other projects.
 [React Stripe Form](https://github.com/carvalhochris/react-stripe-form-example) \
 [ChakraUI Card Iterator](https://github.com/carvalhochris/chakra-card-iterator)
 
+## Toolbelt
+
+[VSCode](https://code.visualstudio.com/) \
+[VSCode Extensions](https://code.visualstudio.com/docs/editor/extension-gallery) \
+[StackOverflow](https://stackoverflow.com/) \
+[Github](https://github.com/)
+
 ## Work
 
 [Portfolio](https://www.christophercarvalho.com/) \
