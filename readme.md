@@ -2,10 +2,22 @@
 
 A place for resources I find useful as well as links to my other projects.
 
+## My Repos
+
+[Portfolio React Frontend](https://github.com/carvalhochris/christopher) \
+[Portfolio DRF Backend](https://github.com/carvalhochris/portfolio-DRF) \
+[React Stripe Form](https://github.com/carvalhochris/react-stripe-form-example) \
+[ChakraUI Card Iterator](https://github.com/carvalhochris/chakra-card-iterator) \
+[PRX (music licencing concept)](https://github.com/carvalhochris/prx-api) \
+[React Stripe Payment Request Button](https://github.com/carvalhochris/react-payment-request) \
+[randomIndie (music discovery app)](https://github.com/carvalhochris/random-indie)
+
 ## React
 
 [React (beta) docs](https://beta.reactjs.org/) \
-[Chakra UI](https://chakra-ui.com/)
+[Chakra UI](https://chakra-ui.com/) \
+[React Router](https://reactrouter.com/) \
+[Axios](https://www.npmjs.com/package/axios)
 
 ## Django
 
@@ -19,12 +31,6 @@ A place for resources I find useful as well as links to my other projects.
 ### Log Rocket
 ### Javascript Jabber -->
 
-## My Repos
-
-[Portfolio Frontend](https://github.com/carvalhochris/christopher) \
-[Portfolio Backend](https://github.com/carvalhochris/portfolio-DRF) \
-[React Stripe Form](https://github.com/carvalhochris/react-stripe-form-example) \
-[ChakraUI Card Iterator](https://github.com/carvalhochris/chakra-card-iterator)
 
 ## Toolbelt
 
