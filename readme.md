@@ -16,7 +16,8 @@
 
 ## Work
 
-[Unlock Your Sound — The artist self-development platform](https://unlockyoursound.com/) \
+[Portfolio](https://www.christophercarvalho.com/) \
+[Unlock Your Sound — The artist self-development platform](https://unlockyoursound.com/)
 
 <!-- ## Music -->
 
