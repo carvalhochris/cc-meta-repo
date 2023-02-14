@@ -18,6 +18,11 @@ A place for resources I find useful as well as links to my other projects.
 ### Log Rocket
 ### Javascript Jabber -->
 
+## My Repos
+
+[Portfolio Frontend](https://github.com/carvalhochris/christopher) \
+[Portfolio Backend](https://github.com/carvalhochris/portfolio-DRF)
+
 ## Work
 
 [Portfolio](https://www.christophercarvalho.com/) \
