@@ -4,7 +4,8 @@ A place for resources I find useful as well as links to my other projects.
 
 ## React
 
-[React (beta) docs](https://beta.reactjs.org/)
+[React (beta) docs](https://beta.reactjs.org/) \
+[Chakra UI](https://chakra-ui.com/)
 
 ## Django
 
