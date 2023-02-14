@@ -1,6 +1,6 @@
 # Christopher's Meta Repo
 
-A place for resources I find useful as well as links to my other projects.
+A repo for my repos and resources I find useful.
 
 ## My Repos
 
