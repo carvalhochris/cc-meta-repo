@@ -6,12 +6,18 @@
 
 ## Django
 
-## Favourite Resources
+[Django docs](https://docs.djangoproject.com/en/3.0/)
+[Django REST Framework docs](https://www.django-rest-framework.org/)
+[LearnDjango.com](https://learndjango.com/)
 
-### Django Chat
+<!-- ### Django Chat
 ### Log Rocket
-### Javascript Jabber
+### Javascript Jabber -->
 
 ## Work
 
+<!-- ## Music -->
+
 ## Contact
+
+[Email](mailto:chris@unlockyoursound.com)
