@@ -13,6 +13,7 @@ A place for resources I find useful as well as links to my other projects.
 [Django REST Framework docs](https://www.django-rest-framework.org/) \
 [LearnDjango.com](https://learndjango.com/) \
 [Django Chat](https://djangochat.com/)
+[Django Virtual Env Setup](https://www.javatpoint.com/django-virtual-environment-setup#:~:text=The%20virtual%20environment%20is%20an,create%20an%20isolated%20Python%20environment.)
 
 <!-- ### Django Chat
 ### Log Rocket
