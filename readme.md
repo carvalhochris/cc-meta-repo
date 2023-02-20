@@ -9,7 +9,6 @@ A repo for my repos and resources I find useful.
 [React Stripe Form](https://github.com/carvalhochris/react-stripe-form-example) \
 [ChakraUI Card Iterator](https://github.com/carvalhochris/chakra-card-iterator) \
 [ChakCRA](https://github.com/carvalhochris/chakCRA) \
-[PRX (music licencing concept)](https://github.com/carvalhochris/prx-api) \
 [React Stripe Payment Request Button](https://github.com/carvalhochris/react-payment-request) \
 [randomIndie (music discovery app)](https://github.com/carvalhochris/random-indie)
 
