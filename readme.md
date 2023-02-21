@@ -12,14 +12,18 @@ A repo for my repos and resources I find useful.
 [React Stripe Payment Request Button](https://github.com/carvalhochris/react-payment-request) \
 [randomIndie (music discovery app)](https://github.com/carvalhochris/random-indie)
 
-## React Resources
+## Resources
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
 
 [React (beta) docs](https://beta.reactjs.org/) \
 [Chakra UI](https://chakra-ui.com/) \
 [React Router](https://reactrouter.com/) \
 [Axios](https://www.npmjs.com/package/axios)
 
-## Django Resources
+
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 [Django docs](https://docs.djangoproject.com/en/4.1/) \
 [Django REST Framework docs](https://www.django-rest-framework.org/) \
